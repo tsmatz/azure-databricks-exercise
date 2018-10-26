@@ -18,4 +18,4 @@ Follow each instructions on notebook.
 This sample worked on Databricks Runtime Version 4.3 (Spark 2.3.1, Scala 2.11).    
 (Horovod sample worked on Runtime Version 4.1 ML Beta including Spark 2.3.0, Scale 2.11)
 
-(Authored by Tsuyoshi Matsuzaki @ Microsoft)
+*Tsuyoshi Matsuzaki @ Microsoft*
