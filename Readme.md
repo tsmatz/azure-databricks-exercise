@@ -9,7 +9,7 @@ Follow each instructions on notebook.
 3. [Databricks Delta](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise03-databricks-delta.html)
 4. [Structured Streaming with Azure EventHub or Kafka](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise04-streaming-eventhub.html)
 5. [Working with Azure services](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise05-blob.html)
-6. [SparkML Pipeline](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise06-sparkml-pipeline.html)
+6. [Spark ML Pipeline](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise06-sparkml-pipeline.html)
 7. [Cross Validation (Hyperparameter Tuning)](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise07-cross-validation.html)
 8. [MLeap](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise08-mleap.html)
 9. [Horovod Estimator on Databricks Runtime for ML](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise09-horovod-estimator.html)
