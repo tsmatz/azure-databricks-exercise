@@ -2,7 +2,7 @@
 
 Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace on Azure Databricks.
 
-Follow each instructions on notebook. (Authored by Tsuyoshi Matsuzaki)
+Follow each instructions on notebook.
 
 1. [Basics of PySpark and SparkML](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/exercise01-pyspark-dataframe.html)
 2. [Structured Streaming](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/exercise02-structured-streaming.html)
@@ -14,3 +14,8 @@ Follow each instructions on notebook. (Authored by Tsuyoshi Matsuzaki)
 8. [MLeap](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/exercise08-mleap.html)
 9. [Horovod Estimator on Databricks Runtime for ML](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/exercise09-horovod-estimator.html)
 10. [Work with MLFlow](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/exercise10-mlflow.html)
+
+This sample worked on Databricks Runtime Version 4.3 (Spark 2.3.1, Scala 2.11).    
+(Horovod sample worked on Runtime Version 4.1 ML Beta including Spark 2.3.0, Scale 2.11)
+
+(Authored by Tsuyoshi Matsuzaki @ Microsoft)
