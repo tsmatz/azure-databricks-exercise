@@ -4,7 +4,7 @@ Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercis
 
 Follow each instructions on notebook.
 
-1. [Basics of PySpark and SparkML](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise01-pyspark-dataframe.html)
+1. [Basics of PySpark and Spark ML](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise01-pyspark-dataframe.html)
 2. [Structured Streaming](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise02-structured-streaming.html)
 3. [Databricks Delta](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise03-databricks-delta.html)
 4. [Structured Streaming with Azure EventHub or Kafka](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise04-streaming-eventhub.html)
