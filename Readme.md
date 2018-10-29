@@ -2,7 +2,7 @@
 
 Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace on Azure Databricks.
 
-Follow each instructions on notebook.
+Follow each instructions on notebook below.
 
 1. [Basics of PySpark and Spark ML](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise01-pyspark-dataframe.html)
 2. [Structured Streaming](https://htmlpreview.github.io/?https://github.com/tsmatz/azure-databricks-exercise/blob/master/HTML/exercise02-structured-streaming.html)
