@@ -10,7 +10,7 @@ Moreover you needs **Premium** tier for runtime to run Exercise 09 (Databricks D
 
 Follow each instructions on notebook below.
 
-1. [Exercise 01 : Storage Settings](https://databricks-hol.azurewebsites.net/basics/exercise01-blob.html)
+1. [Storage Settings](https://databricks-hol.azurewebsites.net/basics/exercise01-blob.html)
 2. [Basics of Pyspark and Spark Machine Learning](https://databricks-hol.azurewebsites.net/basics/exercise02-pyspark-dataframe.html)
 3. [Spark Machine Learning Pipeline](https://databricks-hol.azurewebsites.net/basics/exercise03-sparkml-pipeline.html)
 4. [Hyper-parameter Tuning](https://databricks-hol.azurewebsites.net/basics/exercise04-hyperparams-tuning.html)
