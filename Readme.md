@@ -1,11 +1,7 @@
 # Spark Machine Learning Exercise for Beginners on Azure Databricks
 
 Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace on Azure Databricks.    
-This sample requires Databricks Runtime **Version 5.1** (includes Spark 2.4.0, Scala 2.11) or above. Both Exercise 05 and Exercise 06 require Runtime **Version 5.1 ML Beta** or above.
-
-- Azure Data Lake Storage Gen2 requires Databricks Runtime 4.2 or above
-- Azure Data Lake Storage Gen2 mount points require Databricks Runtime 5.1 or above
-
+This sample requires Databricks Runtime **Version 5.1** (includes Spark 2.4.0, Scala 2.11) or above. Both Exercise 05 and Exercise 06 require Runtime **Version 5.1 ML Beta** or above.    
 Moreover you needs **Premium** tier for runtime to run Exercise 09 (Databricks Delta). (Otherwise you can use Standard tier.)
 
 Follow each instructions on notebook below.
