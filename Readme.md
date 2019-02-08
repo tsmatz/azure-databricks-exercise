@@ -16,6 +16,7 @@ Follow each instructions on notebook below.
 8. [Structured Streaming with Azure EventHub or Kafka](https://databricks-hol.azurewebsites.net/basics/exercise08-streaming-eventhub.html)
 9. [Databricks Delta](https://databricks-hol.azurewebsites.net/basics/exercise09-databricks-delta.html)
 10. [Work with MLFlow](https://databricks-hol.azurewebsites.net/basics/exercise10-mlflow.html)
+11. [Orchestration with Azure Data Services](https://databricks-hol.azurewebsites.net/basics/exercise11-orchestration.html)
 
 This sample worked on Databricks Runtime Version 5.1 and 5.1 ML Beta.
 
