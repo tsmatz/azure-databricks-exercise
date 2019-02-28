@@ -20,4 +20,6 @@ Follow each instructions on notebook below.
 
 This sample worked on Databricks Runtime Version 5.1 and 5.1 ML Beta.
 
+Note : When you're using Azure Trial (Free) subscription, you cannot run your cluster (because of limited vCPU quota). Please promote to Pay-As-You-Go. (The credit is reserved even when using Pay-As-You-Go.)
+
 *Tsuyoshi Matsuzaki @ Microsoft*
