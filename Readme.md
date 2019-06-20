@@ -1,8 +1,10 @@
 # Spark Machine Learning Exercise for Beginners on Azure Databricks
 
 Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace on Azure Databricks.    
-This sample requires Databricks Runtime **Version 5.1** (includes Spark 2.4.0, Scala 2.11) or above. Both Exercise 05 and Exercise 06 require Runtime **Version 5.1 ML Beta** or above.    
-Moreover you needs **Premium** tier for runtime to run Exercise 09 (Databricks Delta). (Otherwise you can use Standard tier.)
+Both Exercise 05 and Exercise 06 require Runtime **Version 5.1 ML** or above.    
+Exercise 09 (Databricks Delta) requires **Premium** tier. (Otherwise you can use Standard tier.)    
+Exercise 10 (MLFlow) requires Runtime **Version 5.4** or above.    
+Others require Databricks Runtime **Version 5.1** (includes Spark 2.4.0, Scala 2.11) or above.
 
 Follow each instructions on notebook below.
 
@@ -18,7 +20,7 @@ Follow each instructions on notebook below.
 10. [Work with MLFlow](https://tsmatz.github.io/azure-databricks-exercise/exercise10-mlflow.html)
 11. [Orchestration with Azure Data Services](https://tsmatz.github.io/azure-databricks-exercise/exercise11-orchestration.html)
 
-This sample worked on Databricks Runtime Version 5.1 and 5.1 ML Beta.
+This sample worked on Databricks Runtime Version 5.4 ML.
 
 Note : When you're using Azure Trial (Free) subscription, you cannot run your cluster (because of limited vCPU quota). Please promote to Pay-As-You-Go. (The credit is reserved even when using Pay-As-You-Go.)
 
