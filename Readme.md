@@ -1,6 +1,7 @@
 # Spark Machine Learning Exercise for Beginners on Azure Databricks
 
-Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace on Azure Databricks.    
+Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace on Azure Databricks.
+
 Both Exercise 05 and Exercise 06 require Runtime **Version 5.1 ML** or above.    
 Exercise 09 (Databricks Delta) requires **Premium** tier. (Otherwise you can use Standard tier.)    
 Exercise 10 (MLFlow) requires Runtime **Version 5.4** or above.    
