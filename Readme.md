@@ -1,4 +1,4 @@
-# Spark Machine Learning Exercise for Beginners on Azure Databricks
+# Azure Databricks Hands-on Exercise
 
 Please download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace on Azure Databricks.
 
