@@ -17,7 +17,7 @@ Follow each instructions on notebook below.
 6. [Horovod Estimator on Databricks Runtime for ML](https://tsmatz.github.io/azure-databricks-exercise/exercise06-horovod-estimator.html) (needs ML runtime)
 7. [Structured Streaming](https://tsmatz.github.io/azure-databricks-exercise/exercise07-structured-streaming.html)
 8. [Structured Streaming with Azure EventHub or Kafka](https://tsmatz.github.io/azure-databricks-exercise/exercise08-streaming-eventhub.html)
-9. [Databricks Delta](https://tsmatz.github.io/azure-databricks-exercise/exercise09-databricks-delta.html)
+9. [Delta Lake](https://tsmatz.github.io/azure-databricks-exercise/exercise09-databricks-delta.html)
 10. [Work with MLFlow](https://tsmatz.github.io/azure-databricks-exercise/exercise10-mlflow.html)
 11. [Orchestration with Azure Data Services](https://tsmatz.github.io/azure-databricks-exercise/exercise11-orchestration.html)
 
