@@ -16,14 +16,16 @@ Follow each instructions on notebook below.
 
 ## Before you start
 
-- Create Azure Databricks resource in [Microsoft Azure](https://portal.azure.com/), and launch workspace.
-- Create a computing cluster on Databricks workspace. (Select "Compute" in Workspace UI.)<br>
-Databricks **Runtime Version 10.2 ML or above** is recommended for running this tutorial.
-- Download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace.
+- Create Azure Databricks resource in [Microsoft Azure](https://portal.azure.com/).<br>
+  After the resource is created, launch Databricks workspace UI by clicking "Launch Workspace".
+- Create a compute (computing cluster) in workspace UI. (Select "Compute" menu and proceed.)<br>
+Databricks **Runtime Version 10.2 ML or above** is recommended for this tutorial.
+- Download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) in this repository and import into your workspace as follows.
     - Select "Workspace" in Workspace UI.
-    - Go to user folder.
-    - Click your e-mail (the arrow in the right side) and select "import" command to import HandsOn.dbc.
-- Open the imported notebook and attach your cluster in the notebook. (Select cluster on top of notebook.)
+    - Go to user folder.<br>
+      Click your e-mail (the arrow icon in the right side of e-mail) and select "import" command.
+    - Pick up the downloaded ```HandsOn.dbc``` to import into your workspace.
+- Open the imported notebooks and attach your cluster (your compute) in every notebook. (Select a cluster on top of each notebook.)
 
 > Note : You cannot use Azure Trial (Free) subscription, because of the limited quota. Please promote to Pay-As-You-Go when you're in trial subscription. (The credit will be reserved even when you transit to Pay-As-You-Go.)
 
