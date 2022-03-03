@@ -25,6 +25,6 @@ Databricks **Runtime Version 10.2 ML or above** is recommended for running this 
     - Click your e-mail (the arrow in the right side) and select "import" command to import HandsOn.dbc.
 - Open the imported notebook and attach your cluster in the notebook. (Select cluster on top of notebook.)
 
-> Note : You cannot use Azure Trial (Free) subscription, because of limited vCPU quota. Please promote to Pay-As-You-Go when you use trial subscription. (The credit will be reserved even when you transit to Pay-As-You-Go.)
+> Note : You cannot use Azure Trial (Free) subscription, because of the limited quota. Please promote to Pay-As-You-Go when you're in trial subscription. (The credit will be reserved even when you transit to Pay-As-You-Go.)
 
 *Tsuyoshi Matsuzaki @ Microsoft*
