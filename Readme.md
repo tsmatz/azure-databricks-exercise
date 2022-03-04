@@ -3,7 +3,7 @@
 Follow each instructions on notebook below.
 
 1. [Storage Settings](https://tsmatz.github.io/azure-databricks-exercise/exercise01-blob.html)
-2. [Basics of Pyspark and Spark Machine Learning](https://tsmatz.github.io/azure-databricks-exercise/exercise02-pyspark-dataframe.html)
+2. [Basics of PySpark, Spark Dataframe, and Spark Machine Learning](https://tsmatz.github.io/azure-databricks-exercise/exercise02-pyspark-dataframe.html)
 3. [Spark Machine Learning Pipeline](https://tsmatz.github.io/azure-databricks-exercise/exercise03-sparkml-pipeline.html)
 4. [Hyper-parameter Tuning](https://tsmatz.github.io/azure-databricks-exercise/exercise04-hyperparams-tuning.html)
 5. [MLeap](https://tsmatz.github.io/azure-databricks-exercise/exercise05-mleap.html) (requires ML runtime)
