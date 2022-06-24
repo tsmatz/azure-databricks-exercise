@@ -13,6 +13,7 @@ Follow each instructions on notebook below.
 9. [Delta Lake](https://tsmatz.github.io/azure-databricks-exercise/exercise09-databricks-delta.html)
 10. [MLFlow](https://tsmatz.github.io/azure-databricks-exercise/exercise10-mlflow.html) (requires ML runtime)
 11. [Orchestration with Azure Data Services](https://tsmatz.github.io/azure-databricks-exercise/exercise11-orchestration.html)
+12. [Delta Live Tables](https://tsmatz.github.io/azure-databricks-exercise/exercise12-dlt.html)
 
 ## Before you start
 
