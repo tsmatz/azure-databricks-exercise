@@ -7,7 +7,7 @@ Follow each instructions on notebook below.
 3. [Spark Machine Learning Pipeline](https://tsmatz.github.io/azure-databricks-exercise/exercise03-sparkml-pipeline.html)
 4. [Hyper-parameter Tuning](https://tsmatz.github.io/azure-databricks-exercise/exercise04-hyperparams-tuning.html)
 5. [MLeap](https://tsmatz.github.io/azure-databricks-exercise/exercise05-mleap.html) (requires ML runtime)
-6. [Horovod Runner on Databricks Runtime for ML](https://tsmatz.github.io/azure-databricks-exercise/exercise06-horovod.html) (requires ML runtime)
+6. [Horovod Runner with TensorFlow](https://tsmatz.github.io/azure-databricks-exercise/exercise06-horovod.html) (requires ML runtime)
 7. [Structured Streaming (Basic)](https://tsmatz.github.io/azure-databricks-exercise/exercise07-structured-streaming.html)
 8. [Structured Streaming with Azure EventHub or Kafka](https://tsmatz.github.io/azure-databricks-exercise/exercise08-streaming-eventhub.html)
 9. [Delta Lake](https://tsmatz.github.io/azure-databricks-exercise/exercise09-databricks-delta.html)
