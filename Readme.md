@@ -1,6 +1,6 @@
 # Azure Databricks Hands-on (Tutorials)
 
-Follow each instructions on notebook below.
+To run these exercises, follow each instructions on the notebook below.
 
 1. [Storage Settings](https://tsmatz.github.io/azure-databricks-exercise/exercise01-blob.html)
 2. [Basics of PySpark, Spark Dataframe, and Spark Machine Learning](https://tsmatz.github.io/azure-databricks-exercise/exercise02-pyspark-dataframe.html)
@@ -14,20 +14,22 @@ Follow each instructions on notebook below.
 10. [MLflow](https://tsmatz.github.io/azure-databricks-exercise/exercise10-mlflow.html) (requires ML runtime)
 11. [Orchestration with Azure Data Services](https://tsmatz.github.io/azure-databricks-exercise/exercise11-orchestration.html)
 12. [Delta Live Tables](https://tsmatz.github.io/azure-databricks-exercise/exercise12-dlt.html)
+13. [Databricks SQL](https://tsmatz.github.io/azure-databricks-exercise/exercise13-sql.html)
 
-## How to start
+## Prerequisites
 
 - Create Azure Databricks resource in [Microsoft Azure](https://portal.azure.com/).<br>
-  After the resource is created, launch Databricks workspace UI by clicking "Launch Workspace".
-- Create a compute (cluster) in Databricks UI. (Select "Compute" menu and proceed.)<br>
-Databricks **Runtime Version 10.2 ML or above** is recommended for this tutorial.
+When you create a resource, please select Premium plan.
+- After the resource is created, launch Databricks workspace UI by clicking "Launch Workspace".
+- Create a compute (cluster) in Databricks UI. (Select "Compute" menu and proceed to create.)<br>
+When you create a compute, please select Runtime ML (not a simple Runtime).
 - Download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc) and import into your workspace as follows.
     - Select "Workspace" in Workspace UI.
     - Go to user folder, click your e-mail (the arrow icon), and then select "import" command.
     - Pick up ```HandsOn.dbc``` to import.
-- Open notebook and attach above compute (your cluster) in every notebook. (Select compute on the top of each notebook.)
-- Please run "Exercise 01 : Storage Settings (Prepare)" notebook first, before running other notebooks.
+- Open notebook and attach above compute (cluster) in every notebook. (Select compute on the top of each notebook.)
+- Please make sure to run "Exercise 01 : Storage Settings (Prepare)", before running other notebooks.
 
-> Note : You cannot use Azure trial (free) subscription, because of the limited quota. Please promote to pay-as-you-go when you're in Azure free subscription. (The credit will be reserved, even when you transit to pay-as-you-go.)
+> Note : You cannot use Azure trial (free) subscription, because of the limited quota. When you're in Azure free subscription, please promote to pay-as-you-go. (The credit in free subscription will be reserved, even when you transit to pay-as-you-go.)
 
 *Tsuyoshi Matsuzaki @ Microsoft*
