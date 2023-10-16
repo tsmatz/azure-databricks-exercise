@@ -1,6 +1,6 @@
 # Azure Databricks Hands-on (Tutorials)
 
-To run these exercises, follow each instructions on the notebook below.
+To run these exercises, follow each instructions below in this readme.
 
 1. [Storage Settings](https://tsmatz.github.io/azure-databricks-exercise/exercise01-blob.html)
 2. [Basics of PySpark, Spark Dataframe, and Spark Machine Learning](https://tsmatz.github.io/azure-databricks-exercise/exercise02-pyspark-dataframe.html)
