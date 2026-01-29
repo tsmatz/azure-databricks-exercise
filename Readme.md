@@ -16,7 +16,7 @@ To run these exercises, follow each instructions below in this readme.
 12. [Lakeflow Spark Declarative Pipelines](https://tsmatz.github.io/azure-databricks-exercise/exercise12-dlt.html)
 13. [Databricks SQL](https://tsmatz.github.io/azure-databricks-exercise/exercise13-sql.html)
 
-These exercises focus only on essential working with data and primitive ML features - not including generative AI features, such as, building AI agents, AI functions, fine-tuning foundation models, etc. (First commit: Oct 2018)
+These exercises focus only on essential learning of data, integration, and primitive ML features - not including generative AI features, such as, building AI agents, AI functions, fine-tuning foundation models, etc. (First commit: Oct 2018)
 
 ## Getting Started
 
@@ -24,17 +24,17 @@ These exercises focus only on essential working with data and primitive ML featu
 (Select premium plan, not standard. Select hybrid type, not serverless.)
 - After the resource is created, launch Databricks workspace UI by clicking "Launch Workspace".
 - Create a compute (cluster) in Databricks UI. (Select "Compute" menu and proceed to create.)<br>
-Enable "machine learning" to create ML runtime.
-- Clone this repository. (Or download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc).)<br>
+In the wizard, enable "machine learning" to create ML runtime.
+- Clone this repository on your desktop. (Or download [HandsOn.dbc](https://github.com/tsmatz/azure-databricks-exercise/raw/master/HandsOn.dbc).)<br>
 ```git clone https://github.com/tsmatz/azure-databricks-exercise```
 - Import ```HandsOn.dbc``` into your Databricks workspace as follows.
-    - Select "Workspace" in Workspace UI.
+    - Select "Workspace" in Databricks UI.
     - Go to your user folder, and then select "Import".
     - Pick up ```HandsOn.dbc``` and submit import.
 - Open the imported notebooks and attach above compute (cluster) in every notebooks. (Select compute (cluster) on the top of notebook.)
 - Please make sure to run "Exercise 01 : Storage Settings (Prepare)", before running other notebooks.
 
 > Note : This requires classic compute culster, and you cannot use Azure trial (free) subscription, because of the limited quota. When you're in Azure free subscription, please promote to pay-as-you-go. (The credit in free subscription will be reserved, even when you transit to pay-as-you-go.)<br>
-> Throughout exercises in this repository, we mostly use All-purpose compute as cluster for experimentation purpose, but please create a Job and use Job compute for production. (All-purpose compute is more expensive than Job compute.)
+> Throughout exercises in this repository, we mostly use All-purpose compute as cluster for experimentation purpose, but please create a Job and use Job compute as cluster for production. (All-purpose compute is more expensive than Job compute.)
 
 *Tsuyoshi Matsuzaki @ Microsoft Asia*
